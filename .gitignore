@@ -1,0 +1,26 @@
+# Unityの不要ファイル
+Library/
+Logs/
+Temp/
+obj/
+Build/
+Builds/
+MemoryCaptures/
+.vs/
+mono_crash.*
+
+# ユーザーごとの設定
+UserSettings/
+*.csproj
+*.sln
+
+# Mac / Windowsの隠しファイル
+.DS_Store
+Thumbs.db
+
+# そのほかログやキャッシュ類
+*.log
+
+# Unirx・DoTween などの外部パッケージ
+Assets/Plugins/Demigiant/  # DoTween
+Assets/Plugins/UniRx/       # UniRx

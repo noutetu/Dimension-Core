@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9203ce5d73f2848c998b1b964749f1a3, type: 3}
+  m_Name: Sharpness
+  m_EditorClassIdentifier: 
+  dimensionName: "\u5203\u92ED"
+  requiredStage: 2
+  possibleShapes:
+  - {fileID: 11400000, guid: 0c51526119b7e4cf594b2d14f8557157, type: 2}
+  - {fileID: 11400000, guid: c7850402e1257455f904488d798a57f9, type: 2}
+  backgroundSprite: {fileID: 0}
+  backgroundMusic: {fileID: 8300000, guid: df0d2da5980aa4774b005a04b0d8b31b, type: 3}
