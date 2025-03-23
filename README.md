@@ -18,7 +18,7 @@ Unityで制作したゲームプロジェクトの完成版です。C#とUnity�
 
 ## 🛠️ 動作環境
 
-- Unity バージョン：2022.3.x** 推奨  
+- Unity バージョン：**2022.3.x** 推奨  
 - プラットフォーム：Windows / macOS  
 - 開発言語：C#
 
@@ -32,7 +32,7 @@ Unityで制作したゲームプロジェクトの完成版です。C#とUnity�
 | ライブラリ名 | 説明 | 導入方法 |
 |--------------|------|----------|
 | [DOTween](http://dotween.demigiant.com/) | アニメーション制御ライブラリ | Asset Store or [公式サイト](http://dotween.demigiant.com/) |
-| [UniRx](https://github.com/neuecc/UniRx) | リアクティブ拡張 for Unity | GitHub / UnityPackage から導入 |
+| [UniRx](https://github.com/neuecc/UniRx) | リアクティブ拡張 for Unity | [GitHub - neuecc/UniRx](https://github.com/neuecc/UniRx) または UnityPackage 手動導入 |
 
 ---
 
@@ -45,7 +45,7 @@ Unityで制作したゲームプロジェクトの完成版です。C#とUnity�
 3. 必要なライブラリ（UniRx / DOTween）をインポート  
 - Asset Store や GitHub から UnityPackage を手動で追加
 
-4. `Assets/Scenes/Title`を開いて実行！
+4. `Assets/Scenes/Title` を開いて実行！
 
 ---
 
@@ -63,6 +63,4 @@ Unityで制作したゲームプロジェクトの完成版です。C#とUnity�
 文系学部出身。UnityとC#を独学で学び、約1年取り組んでいます。  
 ゲーム会社（プログラマー職）を目指して新卒就職活動中です。
 
-
 ---
-
