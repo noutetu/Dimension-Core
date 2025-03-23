@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80dc9b2176a4a47aa86c208555c66c59, type: 3}
+  m_Name: Triangle
+  m_EditorClassIdentifier: 
+  omegaSkillDescription: "\u56DE\u907F\u7387+10%\n\n\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u7387+10%"
+  alphaSkillDescription: "\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u7387+20%\n\n\u653B\u6483\u529B+100"
+  lambdaSkillDescription: "\u901F\u5EA6+4\n\n\u56DE\u907F\u7387+20%"
+  omegaSkillCost: 50
+  alphaSkillCost: 100
+  lambdaSkillCost: 100
+  baseHP: 2500
+  baseAttackPower: 400
+  baseSpeed: 8
+  criticalRate: 25
+  evasionRate: 25
+  rarity: 1
+  ShapeName: "\u4E09\u89D2\u5F62"
+  AbilityDescription: "\n\n\u306A\u3057"
+  SkillDescription: "\n\n\u306A\u3057"
+  ShapeIcon: {fileID: 7482667652216324306, guid: 75f5f34dc1b5347e0b8351032682f224, type: 3}
+  ShapePrefab: {fileID: 9167427024698275534, guid: b1093bbe79c734b35a8f0ca77eb1dc2a, type: 3}
+  IsDiscovered: 0

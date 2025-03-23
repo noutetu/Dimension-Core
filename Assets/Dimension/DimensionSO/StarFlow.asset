@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9203ce5d73f2848c998b1b964749f1a3, type: 3}
+  m_Name: StarFlow
+  m_EditorClassIdentifier: 
+  dimensionName: "\u661F\u6CB3"
+  requiredStage: 2
+  possibleShapes:
+  - {fileID: 11400000, guid: c7850402e1257455f904488d798a57f9, type: 2}
+  - {fileID: 11400000, guid: c2015bd654e3448b9858fa059bac02b7, type: 2}
+  backgroundSprite: {fileID: 0}
+  backgroundMusic: {fileID: 8300000, guid: 8260afef0e3e944319217e3c9aee84f0, type: 3}

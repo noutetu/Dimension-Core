@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4800cb209d5914c5984334771f031182, type: 3}
+  m_Name: TrialOfMutationEvent
+  m_EditorClassIdentifier: 
+  eventTitle: "\u5909\u7570\u306E\u8A66\u7DF4"
+  riskDescription: "\u30E9\u30F3\u30C0\u30E0\u306A\u56F3\u5F62\u3092\u4E00\u3064\u5931\u3046"
+  returnDescription: "\u30EC\u30A2\u5EA62\u306E\u56F3\u5F62\u3092\u30E9\u30F3\u30C0\u30E0\u306B1\u3064\u7372\u5F97"

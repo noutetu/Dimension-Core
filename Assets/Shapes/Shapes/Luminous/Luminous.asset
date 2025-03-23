@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80dc9b2176a4a47aa86c208555c66c59, type: 3}
+  m_Name: Luminous
+  m_EditorClassIdentifier: 
+  omegaSkillDescription: "\u30D0\u30EA\u30A2\u306E\u30AF\u30FC\u30EB\u30BF\u30A4\u30E0\u304C15\u79D2\u306B\u306A\u308B"
+  alphaSkillDescription: "\u5473\u65B9\u3078\u4E0E\u3048\u308B\u653B\u6483\u529B\u30A2\u30C3\u30D7\u304C300\u306B\u306A\u308B"
+  lambdaSkillDescription: "\u30D0\u30EA\u30A2\u304C\u5473\u65B9\u306B\u89E6\u308C\u308B\u3068\u5473\u65B9\u3092\u56DE\u5FA9\u3059\u308B\u3088\u3046\u306B\u306A\u308B"
+  omegaSkillCost: 80
+  alphaSkillCost: 80
+  lambdaSkillCost: 80
+  baseHP: 3500
+  baseAttackPower: 200
+  baseSpeed: 4
+  criticalRate: 5
+  evasionRate: 15
+  rarity: 2
+  ShapeName: "\u30EB\u30DF\u30CA\u30B9"
+  AbilityDescription: "\n\n20\u79D2\u3054\u3068\u306B10\u79D2\u9593\u5168\u3066\u306E\u52B9\u679C\u3092\u53D7\u3051\u306A\u304F\u306A\u308B\u30D0\u30EA\u30A2\u3092\u5C55\u958B\u3059\u308B\u3002"
+  SkillDescription: "\n\n\u30D0\u30EA\u30A2\u72B6\u614B\u3067\u5473\u65B9\u306B\u89E6\u308C\u308B\u3068\u305D\u306E\u5473\u65B9\u306E\u653B\u6483\u529B+200"
+  ShapeIcon: {fileID: 21300000, guid: 6874874cae1454d53aa168af6b08d904, type: 3}
+  ShapePrefab: {fileID: 2026034657393638510, guid: 80fb29927666a44989a8f46215d9e527, type: 3}
+  IsDiscovered: 0

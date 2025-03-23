@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe1095e1894c249e7b0315952b171830, type: 3}
+  m_Name: CollapseRelicEvent
+  m_EditorClassIdentifier: 
+  eventTitle: "\u5D29\u58CA\u306E\u907A\u7269"
+  riskDescription: "\u30E9\u30F3\u30C0\u30E0\u306A\u56F3\u5F62\u30922\u3064\u5931\u3046"
+  returnDescription: "\u30EC\u30A2\u5EA63\u306E\u56F3\u5F62\u30921\u3064\u7372\u5F97"

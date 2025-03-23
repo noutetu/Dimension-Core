@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9203ce5d73f2848c998b1b964749f1a3, type: 3}
+  m_Name: Scorching
+  m_EditorClassIdentifier: 
+  dimensionName: "\u707C\u71B1"
+  requiredStage: 3
+  possibleShapes:
+  - {fileID: 11400000, guid: 688f26669e65a421dbda7c46230180bd, type: 2}
+  - {fileID: 11400000, guid: d5256f1a7380145e69f96a819e0aceb2, type: 2}
+  backgroundSprite: {fileID: 0}
+  backgroundMusic: {fileID: 8300000, guid: 85959c377f1864af7a565f8a368d7f20, type: 3}

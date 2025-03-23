@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 720752c9f16514fa594e3761490dc6eb, type: 3}
+  m_Name: Stage4
+  m_EditorClassIdentifier: 
+  patternName: Stage4
+  enemies:
+  - {fileID: 11400000, guid: ab86274a7448d4d38acf04f33c4a1be6, type: 2}
+  - {fileID: 11400000, guid: a759f0db8b6a9458fb9d71b34d65ad38, type: 2}
+  - {fileID: 11400000, guid: a759f0db8b6a9458fb9d71b34d65ad38, type: 2}
+  - {fileID: 11400000, guid: 4704b9218ef3b4bd680c171fe384642e, type: 2}
+  - {fileID: 11400000, guid: 0c51526119b7e4cf594b2d14f8557157, type: 2}
+  - {fileID: 11400000, guid: 0c51526119b7e4cf594b2d14f8557157, type: 2}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80dc9b2176a4a47aa86c208555c66c59, type: 3}
+  m_Name: Ring
+  m_EditorClassIdentifier: 
+  omegaSkillDescription: "\u30C0\u30E1\u30FC\u30B8\u5438\u53CE\u91CF\u304C50%\u306B\u306A\u308B"
+  alphaSkillDescription: "\u30C0\u30E1\u30FC\u30B8\u3092\u53D7\u3051\u308B\u306810\u79D2\u9593\u76F8\u624B\u306E\u653B\u6483\u529B\u5206\u653B\u6483\u529B\u304C\u4E0A\u6607\u3059\u308B\u3088\u3046\u306B\u306A\u308B"
+  lambdaSkillDescription: "\u81EA\u8EAB\u306E\u4F53\u529B\u3092\u5F90\u3005\u306B\u56DE\u5FA9\u3059\u308B\u3088\u3046\u306B\u306A\u308B"
+  omegaSkillCost: 50
+  alphaSkillCost: 90
+  lambdaSkillCost: 90
+  baseHP: 3500
+  baseAttackPower: 250
+  baseSpeed: 5
+  criticalRate: 10
+  evasionRate: 10
+  rarity: 2
+  ShapeName: "\u30EA\u30F3\u30B0"
+  AbilityDescription: "\n\n\u306A\u3057"
+  SkillDescription: "\n\n\u6575\u3068\u885D\u7A81\u3059\u308B\u3068\u4E0E\u3048\u305F\u30C0\u30E1\u30FC\u30B8\u306E40%\u3092\u5438\u53CE\u3057\u3001\u81EA\u8EAB\u306E\u4F53\u529B\u3068\u3057\u3066\u56DE\u5FA9\u3059\u308B\u3002"
+  ShapeIcon: {fileID: 21300000, guid: 0b0887740a0894a99bfcda14853dd8b4, type: 3}
+  ShapePrefab: {fileID: 1513222930789124751, guid: 9d1a691c3df214f228dc5e3da37d9c31, type: 3}
+  IsDiscovered: 0
