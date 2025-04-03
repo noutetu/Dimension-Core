@@ -17,6 +17,19 @@ C#とUnityを用いて、UI制御やアニメーション演出など、実践�
 
 ---
 
+## 💾 ダウンロード（ビルド済みアプリ）
+
+下記より、ビルド済みのゲームをダウンロードしてすぐに遊べます。  
+**Unity環境がなくてもプレイ可能です。**
+
+- 🪟 [Windows版（Google Drive）](https://drive.google.com/xxxxx)  
+- 🍎 [macOS版（Google Drive）](https://drive.google.com/yyyyy)
+
+> ※ `.zip` ファイルを解凍後、`.exe` または `.app` を実行してください。  
+> Windowsではセキュリティ警告が出る場合がありますが、問題ありません。
+
+---
+
 ## 🛠️ 動作環境
 
 - Unity バージョン：**2022.3.x** 推奨  
@@ -57,6 +70,7 @@ C#とUnityを用いて、UI制御やアニメーション演出など、実践�
 - 📦 GitHubリポジトリ（このページ）  
 - 📄 [PDF資料（ポートフォリオ）](このリポジトリ内に添付「Dimension Core PDF資料」)  
 - 🎥 [ゲーム紹介映像（YouTube）](https://youtu.be/Y6EHVeLFPqE)
+- 🎮 ビルド済みアプリ(このREADME上部)
 
 ---
 
