@@ -22,8 +22,8 @@ C#とUnityを用いて、UI制御やアニメーション演出など、実践�
 下記より、ビルド済みのゲームをダウンロードしてすぐに遊べます。  
 **Unity環境がなくてもプレイ可能です。**
 
-- 🪟 [Windows版（Google Drive）](https://drive.google.com/xxxxx)  
-- 🍎 [macOS版（Google Drive）](https://drive.google.com/yyyyy)
+- 🪟 [Windows版（Google Drive）](https://drive.google.com/drive/folders/1wuDAlWIzz1fvZcequPqCIFtsmaBXiLnX?usp=drive_link)  
+- 🍎 [macOS版（Google Drive）](https://drive.google.com/file/d/1_gm1yyi2riMLDa-9etspMhWmh6sGlwdj/view?usp=drive_link)
 
 > ※ `.zip` ファイルを解凍後、`.exe` または `.app` を実行してください。  
 > Windowsではセキュリティ警告が出る場合がありますが、問題ありません。
