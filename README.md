@@ -24,6 +24,11 @@ C#とUnityを用いて、UI制御やアニメーション演出など、実践�
 
 - 🪟 [Windows版（Google Drive）](https://drive.google.com/drive/folders/1wuDAlWIzz1fvZcequPqCIFtsmaBXiLnX?usp=drive_link)  
 - 🍎 [macOS版（Google Drive）](https://drive.google.com/file/d/1_gm1yyi2riMLDa-9etspMhWmh6sGlwdj/view?usp=drive_link)
+- macでの実行の際はターミナルで
+- 1 「　xattr -rd com.apple.quarantine [ここにAppをドラッグしてEnter]　」
+- 2  「　chmod -R 755 ~/Downloads/Dimension\ Core\ For\ Apple\ Silicon.app
+　」 を実行する必要があります。
+
 
 > ※ `.zip` ファイルを解凍後、`.exe` または `.app` を実行してください。  
 > Windowsではセキュリティ警告が出る場合がありますが、問題ありません。
