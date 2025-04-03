@@ -55,7 +55,7 @@ xattr -rd com.apple.quarantine [ここに .app をドラッグして Enter]
 chmod -R 755 [同じく .app をドラッグして Enter]
 ```
 何も表示されなければ成功！
-appを実行すればプレイできます
+appをダブルクリックすればプレイできます
 
 ---
 
