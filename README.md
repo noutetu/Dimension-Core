@@ -97,7 +97,6 @@ appをダブルクリックすればプレイできます
 ## 📃 ポートフォリオについて
 
 - 📦 GitHubリポジトリ（このページ）  
-- 📄 [PDF資料（ポートフォリオ）](このリポジトリ内に添付「Dimension Core PDF資料」)  
 - 🎥 [ゲーム紹介映像（YouTube）](https://youtu.be/Y6EHVeLFPqE)
 - 🎮 ビルド済みアプリ(このREADME上部)
 
