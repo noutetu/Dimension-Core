@@ -97,7 +97,7 @@ appをダブルクリックすればプレイできます
 ## 📃 ポートフォリオについて
 
 - 📦 GitHubリポジトリ（このページ）  
-- 🎥 [ゲーム紹介映像（YouTube）](https://youtu.be/Y6EHVeLFPqE)
+- 🎥 [ゲーム紹介映像（YouTube）](https://youtube.com/shorts/GR6SsXOYB6c?si=s-c9pcUd246EAuGW)
 - 🎮 ビルド済みアプリ(このREADME上部)
 
 ---
