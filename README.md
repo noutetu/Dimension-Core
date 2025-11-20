@@ -82,6 +82,6 @@ appをダブルクリックすればプレイできます
 1. このリポジトリをクローン or ZIPでダウンロード  
 2. Unity Hubでプロジェクトを開く  
 3. 必要なライブラリ（UniRx / DOTween）をインポート  
-4. `Assets/Scenes/Title` を開いて実行！
+4. `Assets/Scenes/Title` を開いて実行
 
 ---
