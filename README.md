@@ -85,27 +85,3 @@ appをダブルクリックすればプレイできます
 4. `Assets/Scenes/Title` を開いて実行！
 
 ---
-
-## 🎓 学んだこと・技術的ポイント
-
-- Unityにおけるスクリプト設計（`MonoBehaviour`, イベント管理）
-- UniRxによるデータ駆動型UI（`ReactiveProperty`, `Subscribe`）
-- DOTweenによるアニメーション演出（`Sequence`, `Ease` など）
-- Git / GitHubによるプロジェクト管理
-
----
-
-## 📃 ポートフォリオについて
-
-- 📦 GitHubリポジトリ（このページ）  
-- 🎥 [ゲーム紹介映像（YouTube）](https://youtu.be/Y6EHVeLFPqE)
-- 🎮 ビルド済みアプリ(このREADME上部)
-
----
-
-## 🙋‍♀️ 作者について
-
-文系学部出身。UnityとC#を独学で学び、約1年にわたって制作に取り組んでいます。  
-現在、ゲーム会社のプログラマー職を志望して新卒就職活動中です。
-
----
